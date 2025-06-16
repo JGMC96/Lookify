@@ -17,6 +17,10 @@ If you are developing a production application, we recommend using TypeScript wi
 This project uses [Vitest](https://vitest.dev/) and React Testing Library for unit tests.
 
 ```bash
+npm install
+```
+
+```bash
 npm test
 ```
 
