@@ -6,6 +6,7 @@ describe('App', () => {
   it('increments count on click', async () => {
     render(<App />)
     const button = screen.getByRole('button', { name: /count is/i })
+    expect(button).toHaveTextContent('count is 0')
     await userEvent.click(button)
     expect(button).toHaveTextContent('count is 1')
   })
