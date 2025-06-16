@@ -10,3 +10,13 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Running Tests
+
+This project uses [Vitest](https://vitest.dev/) and React Testing Library for unit tests.
+
+```bash
+npm test
+```
+
+The command runs Vitest in watch mode. Press `q` to quit.
