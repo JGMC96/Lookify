@@ -35,6 +35,14 @@ Para ejecutar los tests unitarios:
 npm test
 ```
 
+Para ejecutar el linter:
+
+```bash
+npm run lint
+```
+
+Esto ejecuta ESLint utilizando la configuración del proyecto.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
