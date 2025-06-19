@@ -35,13 +35,13 @@ Para ejecutar los tests unitarios:
 npm test
 ```
 
-Para ejecutar el linter del proyecto:
+Para ejecutar el linter con la configuración del proyecto:
 
 ```bash
 npm run lint
 ```
 
-Este script ejecuta ESLint utilizando la configuración definida en el proyecto.
+Este comando ejecuta ESLint usando la configuración del proyecto.
 
 ## License
 
