@@ -24,3 +24,7 @@ npm test
 ```
 
 The command runs Vitest in watch mode. Press `q` to quit.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
