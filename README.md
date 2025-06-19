@@ -21,6 +21,10 @@ Lookify es una aplicación web que combina inteligencia artificial, moda real y 
 - Comunicación con servicios de IA (ChatGPT o Jules.ai) a través de un backend que reciba las prendas del usuario y devuelva las combinaciones sugeridas.
 - El front-end consume estas sugerencias desde endpoints propios (`/api/outfits`, `/api/items`) y muestra las prendas con enlaces directos de compra.
 
+## Planificación
+
+Para más información sobre la estructura del proyecto, consulta el documento de planificación: [Ver planificación](docs/PLANNING.md).
+
 ## Desarrollo
 Este proyecto usa [Vite](https://vitejs.dev/) y [React](https://react.dev). Para ejecutar el entorno de desarrollo:
 
